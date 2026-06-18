@@ -2,7 +2,7 @@ package com.mycompany.victominahello;
 
 /**
  *
- * @author Usuário
+ * @author victor
  */
 public class VictominaHello {
 
